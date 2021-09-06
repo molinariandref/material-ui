@@ -6,7 +6,7 @@ import Title from './Title';
 // Generate Sales Data
 function createData(time, amount) {
   return { time, amount };
-}
+}dfrfdfesdfsdf
 
 const data = [
   createData('00:00', 0),
